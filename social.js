@@ -8,5 +8,5 @@ document.write(
 		'\'width\' : 300,'+
 		'\'params\' : {}'+
 	'};'+
-	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://democraticexit.com/17a7b6540a43433373edbc61f85bb1d6/invoke.js\"></scr' + 'ipt>');"+
+	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://punishmentsupport.com/17a7b6540a43433373edbc61f85bb1d6/invoke.js\"></scr' + 'ipt>');"+
 '</scr'+'ipt>');
