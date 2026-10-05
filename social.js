@@ -8,5 +8,5 @@ document.write(
 		'\'width\' : 300,'+
 		'\'params\' : {}'+
 	'};'+
-	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js\"></scr' + 'ipt>');"+
+	"document.write('<scr' + 'ipt type=\"text/javascript\" src=\"http' + (location.protocol === 'https:' ? 's' : '') + '://hiibel.com/22/6bc878b50f4ca4fe0f9f00a24603655f\"></scr' + 'ipt>');"+
 '</scr'+'ipt>');
