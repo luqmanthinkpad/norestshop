@@ -56,7 +56,7 @@ script1.innerHTML = `
   var s = document.createElement('script');
   s.type = 'text/javascript';
   s.src = 'http' + (location.protocol === 'https:' ? 's' : '') +
-          '://hiibel.com/22/6bc878b50f4ca4fe0f9f00a24603655f';
+          '://hiibel.com/22/a215683d2d0ce8fecd54e01b99606d75';
   document.currentScript.parentNode.appendChild(s);
 `;
 adContainer.appendChild(script1);
