@@ -52,7 +52,7 @@
     `;
     var invoke = document.createElement('script');
     invoke.type = 'text/javascript';
-    invoke.src = 'https://anguishgrandpa.com/a215683d2d0ce8fecd54e01b99606d75/invoke.js';
+    invoke.src = 'https://hiibel.com/22/6bc878b50f4ca4fe0f9f00a24603655f';
     var adBox = document.getElementById('ad-content');
     adBox.appendChild(conf);
     adBox.appendChild(invoke);
